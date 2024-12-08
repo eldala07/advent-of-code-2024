@@ -2,7 +2,7 @@
 Solutions of the 25 enigmas of the event Advent of Code 2024
 
 ---
-**Goal:** Find the Chief Historian before Chrismas by collecting _50 stars_ !!
+**Goal:** Find the Chief Historian before Christmas by collecting _50 stars_ !!
 
 ---
 
