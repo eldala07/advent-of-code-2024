@@ -2,7 +2,7 @@
 Solutions of the 25 enigmas of the event Advent of Code 2024
 
 ---
-**Goal:** ___ with _50 stars_ !!
+**Goal:** Find the Chief Historian before Chrismas by collecting _50 stars_ !!
 
 ---
 
@@ -13,7 +13,7 @@ Solutions of the 25 enigmas of the event Advent of Code 2024
 ✅✅ -- **05** - In the stationery section, you verify page order for updated sleigh safety manuals.   
 ✅✅ -- **06** - Prevent a time paradox in 1518 by mapping a guard's patrol pattern at the prototype suit lab.   
 ✅✅ -- **07** - Help engineers repair a rope bridge by solving calibration equation challenges.   
-⏳⏳ -- **08** - ___   
+✅✅ -- **08** - On a secret Easter Bunny facility's roof, you uncover an antenna designed to boost chocolate sales by 0.1% during Christmas.
 
 
 ---
