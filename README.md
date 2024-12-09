@@ -14,6 +14,7 @@ Solutions of the 25 enigmas of the event Advent of Code 2024
 ✅✅ -- **06** - Prevent a time paradox in 1518 by mapping a guard's patrol pattern at the prototype suit lab.   
 ✅✅ -- **07** - Help engineers repair a rope bridge by solving calibration equation challenges.   
 ✅✅ -- **08** - On a secret Easter Bunny facility's roof, you uncover an antenna designed to boost chocolate sales by 0.1% during Christmas.
+✅✅ -- **09** - Submarine mission: help an amphipod debug files while tracking the Historians.
 
 
 ---
